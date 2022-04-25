@@ -1,8 +1,6 @@
 NBFC Registration Process In Simple Steps
 ![image](https://user-images.githubusercontent.com/102798589/165140757-62c835c6-5bd5-42cf-8eaf-f263da8eac5a.png)
 
-NBFC Registration Process In Simple Steps
-
 NBFC registration: How to Become an RBI-Registered NBFC
 •	Step 1: Establish a company in line with the Companies Act of 2013.
 •	Step 2: The net owned finances of a corporation must be at least Rs. 2 crores.
